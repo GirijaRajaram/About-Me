@@ -1,2 +1,2 @@
 # About-Me
-This is the repository about girija.
+This is the repository about Girija.
